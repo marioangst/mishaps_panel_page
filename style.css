@@ -153,7 +153,7 @@ body {
   text-transform: uppercase;
   letter-spacing: .1em;
   margin: 10;
-  animation: glitch 5s 5.02s infinite;
+  animation: glitch 4s 5.02s infinite;
   background-color: blanchedalmond;
 }
 
